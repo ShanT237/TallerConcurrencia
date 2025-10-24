@@ -1,4 +1,4 @@
-## Suma de los elementos diagonal principal
+## Suma de los numero bajo la diagonal principal
 defmodule Concurrencia do
   def main do
     matrix = [[1, 3, 4], [2, 1, 4], [2, 2, 1]]
